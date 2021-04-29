@@ -34,6 +34,8 @@ docker-compose up --build
 
 ### **Guide for using endpoints the app:**
 
+URL BASE =`http://localhost:8080`
+
 [DOWNLOAD POSTMAN COLLECTION](https://github.com/ramsantos/ibm/blob/master/postman/ibm_postman_requests.json)
 
 * POST request to `/api/cliente` with a object as JSON creates a new "Cliente";
