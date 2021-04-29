@@ -36,7 +36,7 @@ docker-compose up --build
 
 URL BASE =`http://localhost:8080`
 
-**To include an address stating the TypeEnumAddress.**
+**To include an address stating the TipoEnderecoEnum.**
 
 Enums availables:
 
