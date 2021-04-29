@@ -36,6 +36,14 @@ docker-compose up --build
 
 URL BASE =`http://localhost:8080`
 
+####To include an address stating the TypeEnumAddress.
+
+Enums availables:
+
+`RESIDENCIAL
+COMERCIAL
+NAO_ESPECIFICADO`
+
 [DOWNLOAD POSTMAN COLLECTION](https://github.com/ramsantos/ibm/blob/master/postman/ibm_postman_requests.json)
 
 * POST request to `/api/cliente` with a object as JSON creates a new "Cliente";
