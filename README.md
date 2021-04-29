@@ -40,8 +40,8 @@ URL BASE =`http://localhost:8080`
 
 Enums availables:
 
-`RESIDENCIAL
-COMERCIAL
+`RESIDENCIAL,
+COMERCIAL,
 NAO_ESPECIFICADO`
 
 [DOWNLOAD POSTMAN COLLECTION](https://github.com/ramsantos/ibm/blob/master/postman/ibm_postman_requests.json)
