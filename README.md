@@ -34,12 +34,11 @@ docker-compose up --build
 
 ### **Guide for using endpoints the app:**
 
+**[DOWNLOAD POSTMAN COLLECTION](https://github.com/ramsantos/ibm/blob/master/postman/ibm_postman_requests.json)**
+
 URL BASE =`http://localhost:8080`
 
 **To include an address stating the TipoEnderecoEnum.**
-
-
-**[DOWNLOAD POSTMAN COLLECTION](https://github.com/ramsantos/ibm/blob/master/postman/ibm_postman_requests.json)**
 
 
 Enums availables:
